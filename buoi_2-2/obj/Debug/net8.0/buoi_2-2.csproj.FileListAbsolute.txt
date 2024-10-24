@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\buoi_2-2\obj\Debug\net8.0\refint\buoi_2-2.dll
 C:\Users\Admin\source\repos\buoi_2-2\obj\Debug\net8.0\buoi_2-2.pdb
 C:\Users\Admin\source\repos\buoi_2-2\obj\Debug\net8.0\buoi_2-2.genruntimeconfig.cache
 C:\Users\Admin\source\repos\buoi_2-2\obj\Debug\net8.0\ref\buoi_2-2.dll
+C:\Users\Admin\source\repos\buoi_2-2\obj\Debug\net8.0\buoi_2-2.sourcelink.json
