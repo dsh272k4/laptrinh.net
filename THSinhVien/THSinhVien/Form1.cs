@@ -59,6 +59,15 @@ namespace THSinhVien
 
         private void btnThem_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(txtMa.Text) || string.IsNullOrEmpty(txtTen.Text) ||
+            string.IsNullOrEmpty(txtDiaChi.Text) || string.IsNullOrEmpty(txtEmail.Text) ||
+            string.IsNullOrEmpty(txtSDT.Text) || cboGioiTinh.SelectedIndex == -1 ||
+            cboKhoa.SelectedIndex == -1)
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!");
+                return;
+            }
+
             SinhVien sv = new SinhVien();
             sv.Ma = int.Parse(txtMa.Text);
             sv.Ten = txtTen.Text;
