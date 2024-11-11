@@ -102,7 +102,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(486, 429);
+            this.AutoSize = true;
+            this.ClientSize = new System.Drawing.Size(1067, 429);
             this.Controls.Add(this.lstDanhSach);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnThem);

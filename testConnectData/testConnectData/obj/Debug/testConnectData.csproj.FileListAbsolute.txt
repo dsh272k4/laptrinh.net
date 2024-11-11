@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\testConnectData\testConnectData\bin\Debug\testConnectData.exe.config
+C:\Users\Admin\source\repos\testConnectData\testConnectData\bin\Debug\testConnectData.exe
+C:\Users\Admin\source\repos\testConnectData\testConnectData\bin\Debug\testConnectData.pdb
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.Form1.resources
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.Properties.Resources.resources
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.exe
+C:\Users\Admin\source\repos\testConnectData\testConnectData\obj\Debug\testConnectData.pdb

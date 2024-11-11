@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.Properties.Resources.resources
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.View.frmDangNhap.resources
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.View.frmLop.resources
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\bin\Debug\connectSinhVien.exe.config
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\bin\Debug\connectSinhVien.exe
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\bin\Debug\connectSinhVien.pdb
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.exe
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.pdb
+C:\Users\Admin\source\repos\connectSinhVien\connectSinhVien\obj\Debug\connectSinhVien.View.frmDangKy.resources
